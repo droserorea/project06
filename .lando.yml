@@ -1,0 +1,4 @@
+name: project06
+recipe: drupal8
+config:
+  webroot: .
